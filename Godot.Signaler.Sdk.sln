@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Godot.Signaler.Sdk", "Godot.Signaler.Sdk.csproj", "{C5DD2749-CFF1-4F9C-85B3-F3E92484B073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DD2749-CFF1-4F9C-85B3-F3E92484B073}.Debug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{C5DD2749-CFF1-4F9C-85B3-F3E92484B073}.Debug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{C5DD2749-CFF1-4F9C-85B3-F3E92484B073}.Release|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{C5DD2749-CFF1-4F9C-85B3-F3E92484B073}.Release|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF2BD28-2B7F-4B02-8E66-03018FBC3422}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+<Project Sdk="Godot.NET.Sdk/3.2.3">
+  <PropertyGroup>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+</Project>
